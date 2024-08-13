@@ -90,7 +90,7 @@ Isto é uma <br> quebra de linha
 
 13.  Acompanhar listas de tarefas (dentro do corpo de  issues e pull requests por exemplo)
 
-- [] Tarefa a concluir
+- [ ] Tarefa a concluir
 - [x] Tarefa concluida
 
 
