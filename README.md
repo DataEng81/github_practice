@@ -1,4 +1,4 @@
-ITALICO E NEGRITO
+1. ITALICO E NEGRITO
 
 - *Praticando Markdown* ou _Praticando Markdown_ em italico
 - **Praticando Markdown** ou __Praticando Markdown__ em negrito
@@ -7,7 +7,7 @@ ITALICO E NEGRITO
 - \_Isso tudo é um \*\*texto simples**_
 
 
-DECLARANDO TITULOS
+2. DECLARANDO TITULOS
 
 - <h1>HTML</h1>   
 # Markdown
@@ -23,30 +23,34 @@ DECLARANDO TITULOS
 ###### Markdown
 
 
-LINK para Imagens e Sites
+3. LINK para Imagens e Sites
 
 ![Link an image](/github_glasses.jpeg)
 
 [Link to site](https://learn.microsoft.com/en-us/training)
 
 
-Fazendo LISTAS ORDENADAS
+4.1 Fazendo LISTAS ORDENADAS
 1. Primeiro
-   1.1 Nested
+   - Nested
 2. Segundo
 3. Terceiro
 
 
-Fazendo LISTAS NAO ORDENADAS (* ou -)
+4.2 Fazendo LISTAS NAO ORDENADAS (* ou -)
 
 - Primeiro
   - Nested
 - Segundo
 - Terceiro
 
+5. Construindo Tabelas
 
-
-
+Nome|Sobrenome
+-|-
+Marcio|Trindade
+Aline|Moreira
+Alicia|Moreira
 
 
 
