@@ -75,8 +75,10 @@ Isto é uma <br> quebra de linha
        print(i)
     ```
 
-9. 
+9. Cross=link issues and pull requests
 
-#12
+`#12`  
+ou  
+`DataEng81/github_practice#12`
 
 
