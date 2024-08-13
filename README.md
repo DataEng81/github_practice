@@ -75,8 +75,16 @@ Isto é uma <br> quebra de linha
        print(i)
     ```
 
-9. Cross=link issues and pull requests
-
+9. Cross-link issues and pull requests
 `#12`
+
+10. Link specific commits
+
+
+8a34890 
+
+
+
+
 
 
