@@ -66,10 +66,11 @@ Isto é uma <br> quebra de linha
 
 8. Trabalhando com código 
   - Em uma linha...(` `)
-    O Código é `print("estou aprendendo markdown")`
+    O Código é
+    `print("estou aprendendo markdown")`
   - Em várias linhas...(``` ```)
     ``` python
-    for i in range(5):
+    for i in range(5): 
        print(i)
     ```
     
