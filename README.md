@@ -94,9 +94,17 @@ Isto é uma <br> quebra de linha
 - [x] Tarefa concluida
 
 
-14.  
+14.  Comandos de Barra (nos campos __comentarios__ ou __Descrição__ em _issues, pull requests e discussions_)
 
 
+ /code 
+ /detais
+ /saved-replies
+ /table
+ /tasklist
+ /template
+
+_obs_: Só os achei disponiveis os 4º acima em _comentarios de issues, pull requests e discussions_ (Estes **slash commands** estão em versao BETA!)
 
 
 
