@@ -74,8 +74,6 @@ Isto é uma <br> quebra de linha
     for i in range(5): 
        print(i)
     ```
-    
--   
 
 9. 
 
