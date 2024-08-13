@@ -64,7 +64,12 @@ quebra de linha
 
 Isto é uma <br> quebra de linha
 
-8. 
+8. Trabalhando com código (` `)
+
+O Código é `print("Estou aprendendo markdown")`
+
+
+9. 
 
 
 
