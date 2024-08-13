@@ -77,8 +77,6 @@ Isto é uma <br> quebra de linha
 
 9. Cross=link issues and pull requests
 
-`#12`  
-ou  
-`DataEng81/github_practice#12`
+`#12`
 
 
