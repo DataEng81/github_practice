@@ -26,6 +26,10 @@ LINK para Imagens e Sites
 
 ![Link an image](/github_glasses.jpeg)
 
+![Link to site](https://learn.microsoft.com/en-us/training)
+
+
+
 
 
 
