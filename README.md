@@ -10,12 +10,17 @@ ITALICO E NEGRITO
 DECLARANDO TITULOS
 
 - <h1>HTML</h1>   
-#Markdown
-- <h2>HMTL</h2>   ##Markdown
-- <h3>HTML</h3>   ###Markdown
-- <h4>HTML</h4>   ####Markdown
-- <h5>HTML</h5>   #####Markdown
-- <h6>HTML</h6>   ######Markdown
+# Markdown
+- <h2>HMTL</h2>   
+## Markdown
+- <h3>HTML</h3>   
+### Markdown
+- <h4>HTML</h4>   
+#### Markdown
+- <h5>HTML</h5>   
+##### Markdown
+- <h6>HTML</h6>   
+###### Markdown
 
 
-#Markdown
+
