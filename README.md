@@ -58,11 +58,13 @@ Alicia|Moreira
 
 
 7. Preenchendo as lacunas com HTML inline
-Isto é uma  quebra de linha (2 espaços entre as linhas
+   
+Isto é uma (2 espaços entre as linhas + ENTER)  
+quebra de linha
 
 Isto é uma <br> quebra de linha
 
-9. 
+8. 
 
 
 
