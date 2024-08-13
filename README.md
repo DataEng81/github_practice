@@ -83,7 +83,18 @@ Isto é uma <br> quebra de linha
 `GH-12`
 
 11. Link specific commits
-8a34890 
+8a34890
+
+12. Menção a individuos e "teams"
+@DataEng81 (envia uma notificação do comentário em que foi mencionado para a pessoa mencionada no "@")
+
+13.  Acompanhar listas de tarefas (dentro do corpo de  issues e pull requests por exemplo)
+
+- [] Tarefa a concluir
+- [x] Tarefa concluida
+
+
+14.  
 
 
 
