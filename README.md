@@ -22,11 +22,28 @@ DECLARANDO TITULOS
 - <h6>HTML</h6>   
 ###### Markdown
 
+
 LINK para Imagens e Sites
 
 ![Link an image](/github_glasses.jpeg)
 
 [Link to site](https://learn.microsoft.com/en-us/training)
+
+
+Fazendo LISTAS ORDENADAS
+1. Primeiro
+   - Nested
+2. Segundo
+3. Terceiro
+
+
+Fazendo LISTAS NAO ORDENADAS (* ou -)
+
+- Primeiro
+  - Nested
+- Segundo
+- Terceiro
+
 
 
 
