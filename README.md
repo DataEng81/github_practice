@@ -76,7 +76,10 @@ Isto é uma <br> quebra de linha
     ```
 
 9. Cross-link issues and pull requests
-`#12`
+
+  
+`#12`  
+
 `GH-12`
 
 11. Link specific commits
