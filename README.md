@@ -32,7 +32,7 @@ LINK para Imagens e Sites
 
 Fazendo LISTAS ORDENADAS
 1. Primeiro
-   - Nested
+   1.1 Nested
 2. Segundo
 3. Terceiro
 
