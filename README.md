@@ -57,5 +57,13 @@ Alicia|Moreira
 > Este é um texto citado
 
 
+7. Preenchendo as lacunas com HTML inline
+Isto é uma  quebra de linha (2 espaços entre as linhas
+
+Isto é uma <br> quebra de linha
+
+9. 
+
+
 
 
